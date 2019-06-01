@@ -1,0 +1,764 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"con",
+				"controller_name"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"inc",
+				"include_once"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"user",
+				"user_status"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"ur",
+				"uri"
+			],
+			[
+				"view",
+				"view_form_user_status"
+			],
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"file",
+				"file_path"
+			],
+			[
+				"met",
+				"method_exists"
+			],
+			[
+				"incl",
+				"incl1\tinclude_once …"
+			],
+			[
+				"co",
+				"controller_path"
+			],
+			[
+				"uri",
+				"uri_arr"
+			],
+			[
+				"rou",
+				"route"
+			],
+			[
+				"exp",
+				"explode_user_request"
+			],
+			[
+				"get_user",
+				"get_user_request"
+			],
+			[
+				"user_",
+				"user_request"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"na",
+				"name_controller"
+			],
+			[
+				"name",
+				"name_action"
+			],
+			[
+				"val",
+				"val_arr"
+			],
+			[
+				"mai",
+				"main"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"Item",
+				"Item_power_tool"
+			],
+			[
+				"get_metho",
+				"get_class_methods"
+			],
+			[
+				"ec",
+				"echo\techo \"…\""
+			],
+			[
+				"en",
+				"engine_power"
+			],
+			[
+				"supl",
+				"supplu_power"
+			],
+			[
+				"item",
+				"item"
+			],
+			[
+				"ite",
+				"item_price"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"use",
+				"userWriter"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"mate",
+				"material_description"
+			],
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
+				"materi",
+				"material"
+			],
+			[
+				"bui",
+				"Building_Process"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"pa",
+				"page"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"set",
+				"setcookie"
+			],
+			[
+				"bgco",
+				"background-color\tproperty"
+			],
+			[
+				"fotn",
+				"font-size\tproperty"
+			],
+			[
+				"po",
+				"pos-s\tposition: static;"
+			],
+			[
+				"cookie",
+				"session_get_cookie_params"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"bg",
+				"bg+\tbackground: ${1:#fff} url(${2}) ${3:0} ${4:0} ${5:no-repeat};"
+			],
+			[
+				"vi",
+				"viewUserData"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"bou",
+				"border-radius\tproperty"
+			],
+			[
+				"tp",
+				"top\tproperty"
+			],
+			[
+				"ali",
+				"align-content\tproperty"
+			],
+			[
+				"he",
+				"height\tproperty"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"functio",
+				"function_exists"
+			],
+			[
+				"req",
+				"_REQUEST"
+			],
+			[
+				"br",
+				"br"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"getItem",
+				"getItemDesctiption"
+			],
+			[
+				"tempTextB",
+				"tempTextBody"
+			],
+			[
+				"bod",
+				"bodyPositionEnd"
+			],
+			[
+				"tex",
+				"textLenght"
+			],
+			[
+				"str",
+				"strlen"
+			],
+			[
+				"body",
+				"bodyPositionStart"
+			],
+			[
+				"bro",
+				"brokenText"
+			],
+			[
+				"coun",
+				"countArr"
+			],
+			[
+				"cou",
+				"countArr"
+			],
+			[
+				"pre",
+				"prepareText"
+			],
+			[
+				"arr",
+				"arrOpenCloseTag"
+			],
+			[
+				"arrOpen",
+				"arrOpenCloseTag"
+			],
+			[
+				"a",
+				"arrOpenCloseTag"
+			],
+			[
+				"arropen",
+				"arrOpenCloseTag"
+			],
+			[
+				"ope",
+				"buildHtmlOpenCloseTags"
+			],
+			[
+				"arrop",
+				"arrOpenCloseTag"
+			],
+			[
+				"clos",
+				"closeTagLenght"
+			],
+			[
+				"pos",
+				"postTagText"
+			],
+			[
+				"temp",
+				"tempText"
+			],
+			[
+				"tem",
+				"tempText"
+			],
+			[
+				"sub",
+				"substr"
+			],
+			[
+				"open",
+				"openTagPosition"
+			],
+			[
+				"ech",
+				"echo"
+			],
+			[
+				"ne",
+				"next"
+			],
+			[
+				"ge",
+				"gen"
+			],
+			[
+				"gen",
+				"genBlock"
+			],
+			[
+				"b",
+				"blockArr"
+			],
+			[
+				"id",
+				"idPositionBlock"
+			],
+			[
+				"bl",
+				"blockPositionStopArr"
+			],
+			[
+				"blo",
+				"blockPositionStartArr"
+			],
+			[
+				"block",
+				"blockPositionStopArr"
+			],
+			[
+				"s",
+				"start"
+			],
+			[
+				"idBlockPositionS",
+				"idBlockPositionStop"
+			],
+			[
+				"is_in",
+				"is_integer"
+			],
+			[
+				"arra",
+				"array\t$… = array (…)"
+			],
+			[
+				"lin",
+				"links"
+			],
+			[
+				"strp",
+				"strpos"
+			],
+			[
+				"file_",
+				"file_get_contents"
+			],
+			[
+				"fun",
+				"fun\tfunction …"
+			],
+			[
+				"str_",
+				"str_ireplace"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"get",
+				"getWord"
+			],
+			[
+				"ar",
+				"article"
+			],
+			[
+				"su",
+				"summary\tTag"
+			],
+			[
+				"de",
+				"details\tTag"
+			],
+			[
+				"f",
+				"functionsArr"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"lo",
+				"locationID"
+			],
+			[
+				"loca",
+				"locationCoord"
+			],
+			[
+				"true",
+				"true"
+			],
+			[
+				"coor",
+				"coordArr"
+			],
+			[
+				"y",
+				"yPlaer"
+			],
+			[
+				"coo",
+				"coordArr"
+			],
+			[
+				"COR",
+				"coordArr"
+			],
+			[
+				"y2",
+				"y2Area"
+			],
+			[
+				"x2",
+				"x2Area"
+			],
+			[
+				"x1",
+				"x1Area"
+			],
+			[
+				"x",
+				"xPlaer"
+			],
+			[
+				"if",
+				"if\tif …"
+			],
+			[
+				"itera",
+				"iteratorSort"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Установочный OSPanel/OSPanel/domains/zandra/application/views/forms/form_user_status_false.html",
+		"/C/Установочный OSPanel/OSPanel/domains/zandra/application/core/controller.php",
+		"/C/Установочный OSPanel/OSPanel/domains/zandra/application/views/main.php",
+		"/C/Установочный OSPanel/OSPanel/domains/zandra/application/controllers/main.php",
+		"/C/Установочный OSPanel/OSPanel/domains/zandra/application/core/view.php",
+		"/C/Установочный OSPanel/OSPanel/domains/zandra/application/core/router.php",
+		"/C/Установочный OSPanel/OSPanel/domains/zandra/application/bootstrap.php",
+		"/C/Установочный OSPanel/OSPanel/domains/zandra/application/css/template.css",
+		"/C/Установочный OSPanel/OSPanel/domains/zandra/application/views/template_view.php",
+		"/C/Установочный OSPanel/OSPanel/domains/zandra/application/views/forms/form_user_status_login.php",
+		"/C/Установочный OSPanel/OSPanel/domains/zandra/application/core/user.php",
+		"/C/Установочный OSPanel/OSPanel/domains/zandra/index.php",
+		"/C/Установочный OSPanel/OSPanel/domains/zandra/application/views/template.php",
+		"/C/Установочный OSPanel/OSPanel/domains/zandra/.htaccess",
+		"/C/Установочный OSPanel/OSPanel/domains/zandra/application/router.php",
+		"/C/Установочный OSPanel/OSPanel/domains/zandra/application/core/model.php",
+		"/C/Установочный OSPanel/OSPanel/domains/zandra/application/core.php",
+		"/C/Установочный OSPanel/OSPanel/domains/zandra/application/temp.html",
+		"/C/Установочный OSPanel/OSPanel/domains/zandra/.htaccess.htaccess",
+		"/C/Установочный OSPanel/OSPanel/domains/simpleEngine.loc/practice/form_user_status.html",
+		"/C/Установочный OSPanel/OSPanel/domains/simpleEngine.loc/pages/lesson 3.php",
+		"/C/Установочный OSPanel/OSPanel/domains/simpleEngine.loc/practice/lesson 3.php",
+		"/C/Установочный OSPanel/OSPanel/domains/simpleEngine.loc/model.php",
+		"/C/Установочный OSPanel/OSPanel/domains/simpleEngine.loc/index.php",
+		"/C/Установочный OSPanel/OSPanel/domains/simpleEngine.loc/practice/lesson 2.php",
+		"/C/Установочный OSPanel/OSPanel/domains/simpleEngine.loc/template.css",
+		"/C/Установочный OSPanel/OSPanel/domains/simpleEngine.loc/pages/lesson 2.php",
+		"/C/Установочный OSPanel/OSPanel/domains/simpleEngine.loc/pages/lesson 3",
+		"/C/Установочный OSPanel/OSPanel/domains/simpleEngine.loc/practice/lesson 1.php",
+		"/C/Установочный OSPanel/OSPanel/domains/simpleEngine.loc/pages/lesson 1.php",
+		"/C/Установочный OSPanel/OSPanel/domains/Zandra/application/core.php",
+		"/C/Установочный OSPanel/OSPanel/domains/simpleEngine.loc/pages/template.php",
+		"/C/Установочный OSPanel/OSPanel/domains/simpleEngine.loc/form.php",
+		"/C/Установочный OSPanel/OSPanel/domains/simpleEngine.loc/pages/main.php",
+		"/C/Установочный OSPanel/OSPanel/domains/simpleEngine.loc/pages/contacts.php",
+		"/C/Установочный OSPanel/OSPanel/domains/simpleEngine.loc/pages/about.php",
+		"/C/Установочный OSPanel/OSPanel/domains/simpleEngine.loc/pages/3.php",
+		"/C/Установочный OSPanel/OSPanel/domains/simpleEngine.loc/pages/2.php",
+		"/C/Установочный OSPanel/OSPanel/domains/simpleEngine.loc/pages/1.php",
+		"/C/Установочный OSPanel/OSPanel/domains/Zandra/practice/first.php",
+		"/C/Установочный OSPanel/OSPanel/domains/Zandra/first.php",
+		"/C/Установочный OSPanel/OSPanel/domains/Zandra/style.css",
+		"/C/Установочный OSPanel/OSPanel/domains/Zandra/index.php",
+		"/C/Установочный OSPanel/OSPanel/domains/Zandra/styles.css",
+		"/C/Установочный OSPanel/OSPanel/domains/sweet/index.php",
+		"/C/Установочный OSPanel/OSPanel/domains/sweet/class.php",
+		"/C/Установочный OSPanel/OSPanel/domains/sweet/classItem.php",
+		"/C/Установочный OSPanel/OSPanel/domains/sweet/style.css",
+		"/C/Установочный OSPanel/OSPanel/domains/sweet/class.html",
+		"/C/Установочный OSPanel/OSPanel/domains/sweet/classitem.html",
+		"/C/Установочный OSPanel/OSPanel/domains/paser.own/application/views/template_view.php",
+		"/C/Установочный OSPanel/OSPanel/domains/paser.own/application/core/route.php",
+		"/C/Установочный OSPanel/OSPanel/domains/paser.own/application/core/model.php",
+		"/C/Установочный OSPanel/OSPanel/domains/paser.own/application/core/controller.php",
+		"/C/Установочный OSPanel/OSPanel/domains/paser.own/application/bootstrap.php",
+		"/C/Установочный OSPanel/OSPanel/domains/paser.own/.htaccess",
+		"/C/Установочный OSPanel/OSPanel/domains/paser.own/index.php",
+		"/C/Установочный OSPanel/OSPanel/domains/paser.own/application/models/model_portfolio.php",
+		"/C/Установочный OSPanel/OSPanel/domains/paser.own/application/views/main_view.php",
+		"/C/Установочный OSPanel/OSPanel/domains/paser.own/application/controllers/controller_main.php",
+		"/C/Установочный OSPanel/OSPanel/domains/paser.own/application/core/view.php",
+		"/C/Установочный OSPanel/OSPanel/domains/paser.own/application/views/portfolio_view.php",
+		"/C/Установочный OSPanel/OSPanel/domains/paser.own/application/controllers/controller_portfolio.php",
+		"/C/Установочный OSPanel/OSPanel/domains/paser.own/application/controllers/controller_services.php",
+		"/C/Установочный OSPanel/OSPanel/domains/paser.own/application/controllers/model_portfolio.php",
+		"/C/Установочный OSPanel/OSPanel/domains/parser.loc/index.php",
+		"/C/Установочный OSPanel/OSPanel/domains/parser.loc/parser.php",
+		"/C/Установочный OSPanel/OSPanel/domains/parser.loc/arrBase.php",
+		"/C/Установочный OSPanel/OSPanel/domains/php7practice/mostUsedFunctions.php",
+		"/C/OSPanel/domains/php7practice/modelGenerators.php",
+		"/C/OSPanel/domains/php7practice/generators.php",
+		"/C/OSPanel/domains/php7practice/index.php",
+		"/C/OSPanel/domains/php7practice/mostUsedFunctions.php",
+		"/C/OSPanel/domains/php7practice/arrOfFunctions.php",
+		"/C/OSPanel/domains/php7practice/functions.php",
+		"/C/OSPanel/domains/php7practice/dumper.php",
+		"/C/OSPanel/domains/php7practice/modelFunctions.php",
+		"/C/OSPanel/domains/Onika/index.php",
+		"/C/OSPanel/domains/Onika/Задача",
+		"/C/OSPanel/domains/bisvlp/Тех задание",
+		"/C/OSPanel/domains/php7practice/modelArray.php",
+		"/C/OSPanel/domains/php7practice/array.php",
+		"/C/OSPanel/domains/php7practice/modelConstructions.php",
+		"/C/OSPanel/domains/php7practice/constructions.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
