@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Главная</title>
-	<link rel="stylesheet" type="text/css" href="template.css">
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="application/css/desctop.css">
 </head>
 <body>
-	<h1>
-		<a href="/main/form_insert_to_content">Добавить главу книги</a>
-	</h1>
-	<header></header>
+	<header>{$header}</header>
 	<nav>
-		<a href="/main/insert_to_products">Ввод данных о продукте</a>
+		<form action="" method="get">
+			<?php include_once 'forms/form_navigation.php'; ?>
+		</form>
+		
 	</nav>
 	<article>
 		<?php
@@ -19,9 +19,7 @@
 
 	  	?>
 	</article>
-	<aside><form action="" method="get">
-<button type="submit" name="section_id" value="id">MAIN</button>
-</form></aside>
+	<aside></aside>
 	<footer></footer>	
 </body>
 </html>

@@ -48,18 +48,24 @@
 		{
 			$q = $this->pdo->prepare("SELECT * FROM users WHERE id=0");
 			$q->execute();
-			$table_fields = $q->fetchAll(PDO::FETCH_COLUMN);
+			$table_fields = $q->fetchAll();
 			return $table_fields;
 		}
 
 		public function get_navigation_section()
 		{
 			$sections = $this->pdo->query('SELECT * from sections');
-			var_dump($sections);
 			return $sections;
 		}
 
-		
+		public function get_data_for_template_view()
+		{
+			$data['title'] = 'title';
+			$data['header'] = 'header';
+			$t = 'SELECT * from sections';
+			$sections = $this->pdo->query($t);
+			return $data;
+		}
 		
 	}
 

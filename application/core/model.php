@@ -5,10 +5,18 @@
  	 */
  	class Model
  	{
-
+ 		public $data;
  		function __construct()
  		{
- 			$this->pdo = new mySQL();
+ 			$this->pdo = new mySQL();	
+ 			$this->data_for_template_view();		
+ 		}
+
+ 		public function data_for_template_view()
+ 		{
+ 			
+ 			$this->data = $this->pdo->get_data_for_template_view();
+
  		}
  		
  		public function verify_user()
@@ -21,19 +29,7 @@
  			var_dump($q);
  		}
 
- 		public function view_navigation_section()
- 		{
- 			$section_arr_assoc = $this->pdo->get_navigation_section();	
- 			foreach ($section_arr_assoc as $key => $value) {
- 				echo "$key => $value";
- 				echo "<hr>";
- 				foreach ($value as $k => $v) {
- 					echo "$k => $v<br>";
- 				}
- 				echo "<hr>";
- 			}
- 		}
-
+ 		
  	}
 
   
