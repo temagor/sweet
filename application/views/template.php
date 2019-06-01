@@ -19,7 +19,9 @@
 
 	  	?>
 	</article>
-	<aside></aside>
+	<aside><form action="" method="get">
+<button type="submit" name="section_id" value="id">MAIN</button>
+</form></aside>
 	<footer></footer>	
 </body>
 </html>

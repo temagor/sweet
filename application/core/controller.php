@@ -12,11 +12,13 @@
 
  		function __construct()
  		{
- 			$this->user = new User();
  			$this->model = new Model();
- 			$this->mySQL = new mySQL();
- 			$this->view = new View();
+
+ 			$this->user = new User(); 			
  			
+ 			$this->view = new View();
+
+ 			$this->model->view_navigation_section();
  		}
 
  		public function index()
